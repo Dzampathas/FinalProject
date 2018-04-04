@@ -1,6 +1,6 @@
 # FinalProject
 
-# Analogue Synthesia
+# Analog Synthesia
 ## Summery
 Creating a way to process image sequences or videos into a format that an arduino can understand and output as analogue sound produced by a homemade speaker.
 
