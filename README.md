@@ -6,21 +6,28 @@ Creating a way to process image sequences or videos into a format that an arduin
 
 ## Component Requirements
 
-###### Neodymium magnet
-###### Copper wire
-###### Wifi enabled microcontroler
-###### Wires
-###### Mosfets
-###### Resistors
+- Neodymium magnet
+- Copper wire
+- Wifi enabled microcontroler
+- Wires
+- Mosfets
+- Resistors
 
 ## Challenges
+- Making the speakers sound *good*
+- Making the code work with videos
+- Sending the data live (Or at least displaying the video as it plays)
+- Figuring out the micros function
 
 ## Timeline
 
-###### Week1 Write Up
-###### Week2 Processing Refinement
-###### Week3 Arduino Refinement
-###### Week4
-###### Week5 Final Project
-
+ - **Week 1:** Write Up
+ - **Week 2:** Processing Refinement
+ - **Week 3:** Arduino Refinement
+ - **Week 4:** Expanding the speakers
+ - **Week 5:** Final Project
+ 
+ ## Resources
+ 
+- https://www.electronicshub.org/homemade-speaker/
 
